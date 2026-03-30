@@ -1,0 +1,11 @@
+group_1,group_2,mean_rank_1,mean_rank_2,mean_ese_1,mean_ese_2,z_statistic,p_raw,p_bonferroni,significant,n_1,n_2
+Steady High Performer,Stable Average,7570.4316,5777.0358,73.9106,67.2765,7.9964,0.0,0.0,True,11518,377
+Steady High Performer,Improver,7570.4316,6044.6811,73.9106,68.0649,12.5358,0.0,0.0,True,11518,1389
+Steady High Performer,Decliner,7570.4316,8263.5903,73.9106,76.3312,-5.7873,0.0,0.0,True,11518,1440
+Steady High Performer,Consistently Struggling,7570.4316,5284.5639,73.9106,65.0184,6.1168,0.0,0.0,True,11518,133
+Stable Average,Improver,5777.0358,6044.6811,67.2765,68.0649,-1.0755,0.282133,1.0,False,377,1389
+Stable Average,Decliner,5777.0358,8263.5903,67.2765,76.3312,-10.0303,0.0,0.0,True,377,1440
+Stable Average,Consistently Struggling,5777.0358,5284.5639,67.2765,65.0184,1.1395,0.254474,1.0,False,377,133
+Improver,Decliner,6044.6811,8263.5903,68.0649,76.3312,-13.7688,0.0,0.0,True,1389,1440
+Improver,Consistently Struggling,6044.6811,5284.5639,68.0649,65.0184,1.9543,0.050666,0.506662,False,1389,133
+Decliner,Consistently Struggling,8263.5903,5284.5639,76.3312,65.0184,7.6711,0.0,0.0,True,1440,133

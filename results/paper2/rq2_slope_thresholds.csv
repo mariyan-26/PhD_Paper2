@@ -1,0 +1,8 @@
+parameter,value,description
+mean_slope,-0.7000270419789111,Mean slope across all eligible student-course pairs
+std_slope,5.552198383332158,Standard deviation of slopes
+improver_threshold,4.852171341353246,Threshold above which student is classified as Improver (mean + 1 SD)
+decliner_threshold,-6.252225425311069,Threshold below which student is classified as Decliner (mean − 1 SD)
+stable_lower,-6.252225425311069,Lower bound of Stable range
+stable_upper,4.852171341353246,Upper bound of Stable range
+min_quizzes_required,3.0,Minimum quizzes required for trajectory analysis

@@ -1,0 +1,4 @@
+group_1,group_2,mean_rank_1,mean_rank_2,mean_ese_1,mean_ese_2,z_statistic,p_raw,p_bonferroni,significant,n_1,n_2
+Low,Medium,7281.9972,8699.5154,66.1858,70.2242,-6.6855,0.0,0.0,True,2154,879
+Low,High,7281.9972,9476.6321,66.1858,73.1789,-18.0036,0.0,0.0,True,2154,15330
+Medium,High,8699.5154,9476.6321,70.2242,73.1789,-4.2296,2.3e-05,7e-05,True,879,15330

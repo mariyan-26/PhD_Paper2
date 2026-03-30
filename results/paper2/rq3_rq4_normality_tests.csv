@@ -1,0 +1,9 @@
+group,n,test,statistic,p_value,normal,rq
+Low,2154,Shapiro-Wilk,0.98972,0.0,False,RQ3
+Medium,879,Shapiro-Wilk,0.978007,0.0,False,RQ3
+High,15330,KS,0.066854,0.0,False,RQ3
+Steady High Performer,11518,KS,0.074033,0.0,False,RQ4
+Stable Average,377,Shapiro-Wilk,0.979453,3.4e-05,False,RQ4
+Improver,1389,Shapiro-Wilk,0.993538,9e-06,False,RQ4
+Decliner,1440,Shapiro-Wilk,0.953938,0.0,False,RQ4
+Consistently Struggling,133,Shapiro-Wilk,0.963891,0.00134,False,RQ4
